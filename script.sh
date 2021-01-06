@@ -1,3 +1,3 @@
 #! /bin/bash
 
-echo "ya halo"
+echo "ya halo ajg" 
